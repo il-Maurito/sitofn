@@ -5,9 +5,14 @@ body {
     font-size:16px;
     
 }
+body {
+        background-image: url('https://wallpapercave.com/wp/wp4284398.jpg');
+        background-repeat:no-repeat;
+        background-size: cover;
+        background-position:  center center;
+}
 
-sf{
-     background-color: #ffffff;          
+sf{       
             color: #000000;
             text-align: left;
             padding: 0,001cm;
